@@ -1,0 +1,57 @@
+body{
+	margin: 0px;
+	background-color: rgba(0, 0, 255, 0.1);
+}
+
+
+h1{
+	font:serif;
+	font-family: fantasy;
+	text-align: center;
+
+}
+
+.pp{
+	float:right;
+	margin-top: -70px;
+	margin-right: 35px;
+} 
+
+h3{
+	font:serif;
+	font-family: fantasy;
+	text-align: center;
+
+
+}
+
+h4{
+	font:serif;
+	font-family: fantasy;
+	background-color: rgba(200,200,200,1);
+	text-align: center;
+
+}
+.header{
+	margin-top: -20px;
+
+	height: 150px;
+}
+
+.navbar{
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.bp{
+	
+}
+
+.row{
+	margin-left: 15%;
+}
+
+.footer{
+	height: 80px;
+	background-color: rgb(100,100,100);
+	text-align: center;
+}

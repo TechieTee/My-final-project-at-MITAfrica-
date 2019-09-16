@@ -1,0 +1,74 @@
+
+	button {
+		background-color: green;
+		/*border-radius: 20px;*/
+	}
+
+	#slider{	
+ 	height: 500px;
+	width: 50%;
+	/*background-image:url('form.jpg');*/
+	background-color: #808080;
+	opacity: 0.8;
+    position: relative;
+   animation: 3s move;
+
+}
+@keyframes move{
+
+		 0%{left: 100%;}
+		 100%{left: 0%;}
+	}
+
+	
+
+	.tabcontent{
+		height: 450px;
+		width: 60%;
+		/*background-color: #A9A9A9;*/
+		margin-left: 5%;
+
+	}
+
+	/*#slider{
+		overflow: hidden;
+	}
+
+	#slider figure{
+		position: relative;
+		width: 250px;
+		margin-left: 100%;
+		margin-top: 160px;
+
+
+		
+	}*/
+
+	/*.contact{animation: move 1s linear 1;}
+	#slider figure table{
+		width: 250px;
+		float: left;
+	}
+
+	@keyframes slider{
+
+		 0%{left: 0%;}
+
+		 20%{left: 0%;}
+
+		25%{left: -60%;}
+
+		 100%{left: -60%;}
+	}*/
+
+/*body{
+	opacity: 0.9;
+}
+*/
+
+/*width: 20%;
+    height: 120px;
+   /*background-color: yellow;
+   position: relative;
+   border-radius: 50%;
+   float: right;*/
